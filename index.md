@@ -8,13 +8,12 @@ Welcome to my personal website. Here you can find some information about me and 
 
 
 <div class="row">
-  <div class="column" markdown="1">
-  Some text.
-  </div>
-  <div class="column" markdown="1">
-  Some text.
-  </div>
+    <div class="col-md-6">
+        Text.
+    </div>
+    <div class="col-md-6">
+        Text.
+    </div>
 </div>
-
 
 
