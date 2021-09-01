@@ -15,3 +15,8 @@ Welcome to my personal website. Here you can find some information about me and 
   </div>
 </div>
 
+.column {
+    float: left;
+    width: 50%;
+    }
+
