@@ -6,6 +6,23 @@ layout: home
 ---
 Welcome to my personal website. Here you can find some information about me and my research, as well as some blog posts.
 
+<style>
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns*/
+    .column {
+    float: left;
+    width: 50%;
+    }
+
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+    </style>
+
 <div class="row">
   <div class="column" markdown="1">
   Some text.
@@ -15,8 +32,5 @@ Welcome to my personal website. Here you can find some information about me and 
   </div>
 </div>
 
-.column {
-    float: left;
-    width: 50%;
-    }
+
 
