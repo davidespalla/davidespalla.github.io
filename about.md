@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+I am a computational neurscientist, working as a postdoc in the Neuronal Networks of Memory lab, at the Donders Institute in Nijmegen.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
