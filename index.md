@@ -6,14 +6,13 @@ layout: home
 ---
 Welcome to my personal website. Here you can find some information about me and my research, as well as some blog posts.
 
+<div class="begin-examples"></div>
+## Text
 
-<div class="row">
-    <div class="col-md-6">
-        Text.
-    </div>
-    <div class="col-md-6">
-        Text.
-    </div>
-</div>
+```
+## Section title
+```
+
+<div class="end-examples"></div>
 
 
