@@ -6,13 +6,4 @@ layout: home
 ---
 Welcome to my personal website. Here you can find some information about me and my research, as well as some blog posts.
 
-<div class="begin-examples"></div>
-## Text
-
-```
-## Section title
-```
-
-<div class="end-examples"></div>
-
-
+The website is under construction, stay tuned for new developements!
