@@ -6,4 +6,4 @@ layout: home
 ---
 Welcome to my personal website. Here you can find some information about me and my research, as well as some blog posts.
 
-The website is under construction, stay tuned for new developements!
+The website is under construction, stay tuned for new developments!
