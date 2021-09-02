@@ -23,6 +23,6 @@ Spalla D., Cornacchia I.M. & Treves, A. (2021).
 
 ### Angular and linear speed cells in the parahippocampal circuits
 
-Spalla D., Treves A. & Boccara C. (2020).
+Spalla D., Treves A. & Boccara C. (2021).
 
 BioRxiv, https://doi.org/10.1101/2021.01.28.428631
