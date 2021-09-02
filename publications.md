@@ -11,7 +11,7 @@ Spalla D., Dubreuil A., Rosay S., Monasson, R. & Treves, A. (2019).
 
  *Neural computation*, *31*(12), 2324–2347. https://doi.org/10.1162/neco_a_01237
 
-
+---
 
 ## Preprints
 
