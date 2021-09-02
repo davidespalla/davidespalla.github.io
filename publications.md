@@ -13,7 +13,7 @@ permalink: /publications/
 *Neural computation*, *31*(12), 2324–2347. https://doi.org/10.1162/neco_a_01237
 
 #### Space,time and memory in the Medial Temporal Lobe
-**Spalla D.** (2020)
+**Spalla D.** (2020)  
 SISSA Iris. http://hdl.handle.net/20.500.11767/115780
 
 
