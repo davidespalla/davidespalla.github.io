@@ -3,6 +3,9 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+
+---
+
 ## Peer-reviewed
 
 ### Can Grid Cell Ensembles Represent Multiple Spaces?
