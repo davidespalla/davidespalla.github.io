@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: CV
 permalink: /cv/
 ---
 
-<embed src="CV.pdf" width="500" height="375" 
- type="application/pdf">
+<object data="https://davidespalla.github.io/CV.pdf" width="1000" height="1000" type="application/pdf"></object>
  
