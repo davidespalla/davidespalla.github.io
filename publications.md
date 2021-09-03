@@ -25,6 +25,6 @@ SISSA Iris. [http://hdl.handle.net/20.500.11767/115780](http://hdl.handle.net/20
 **Spalla D.**, Cornacchia I.M. & Treves, A. (2021).  
 BioRxiv. [https://doi.org/10.1101/2020.11.08.373084](https://doi.org/10.1101/2020.11.08.373084)
 
-**Angular and linear speed cells in the parahippocampal circuits** 
+**Angular and linear speed cells in the parahippocampal circuits**  
 **Spalla D.**, Treves A. & Boccara C. (2021).  
 BioRxiv, [https://doi.org/10.1101/2021.01.28.428631](https://doi.org/10.1101/2021.01.28.428631)
