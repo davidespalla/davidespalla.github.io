@@ -4,5 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-<object data="https://davidespalla.github.io/CV.pdf" width="1000" height="1000" type="application/pdf"></object>
+Here is my Curriculum Vitae, take a look below or download it here: [download CV pdf](https://davidespalla.github.io/CV.pdf).
+
+<object data="https://davidespalla.github.io/CV.pdf" width="750" height="1200" type="application/pdf"></object>
  
