@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am a computational neurscientist, working as a postdoc in the Neuronal Networks of Memory lab, at the Donders Institute in Nijmegen.
+I am a computational neuroscientist, working as a postdoc in the [Neuronal Networks of Memory Lab](https://www.ru.nl/donders/research/theme-3-plasticity-memory/research-groups-theme-3/neuronal-networks-memory/), at the Donders Institute in Nijmegen.
 
 
 
