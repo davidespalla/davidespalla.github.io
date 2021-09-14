@@ -6,7 +6,7 @@ categories: updates
 ---
 Our latest work  **"Continuous attractors for dynamic meomories"**, with [Isabel Cornacchia](https://twitter.com/isabelmaria_c) and [Ale Treves](https://people.sissa.it/~ale/limbo.html) is now published in eLife! You can find it [here](https://elifesciences.org/articles/69499).
 
-![The thinker](../images/rodin.jpg)
+![The thinker](https://davidespalla.github.io/images/rodin.jpg)
 
 *The thinker, surrounded by dynamic memories. Credit: Silvia Girardi*
 
