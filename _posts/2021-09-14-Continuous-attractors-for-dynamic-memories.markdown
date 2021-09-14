@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Continuous attractors for dynamic memories"
-date:   2021-09-01 16:51:03 +0200
+date:   2021-09-14 
 categories: updates
 excerpt_separator: <!--end_excerpt-->
 ---
