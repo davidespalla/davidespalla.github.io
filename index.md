@@ -8,7 +8,7 @@ layout: home
 
 
 
-<img src='images/me.jpeg' style='float: right' width=400 > 
+<img src='images/me.jpeg' style='float: right' width=300 > 
 
 I am a posdoctoral researcher at the [Donders Institute](https://www.ru.nl/donders/) in Nijmegen (NL). 
 I have a background in statistical physics and computational neuroscience, and I am working at the Neuronal Networks for Memory Lab, developing and applying machine learning tools for the analysis of neural data.
