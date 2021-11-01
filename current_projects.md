@@ -1,8 +1,10 @@
+---
 layout: page
-title: Current Projects
-permalink: /current_projects/
+title: Publications
+permalink: /publications/
+---
 
-# Current projects
+---
 
 Here you can find a brief description of the main projects I am working on at the moment. 
 

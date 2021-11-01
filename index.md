@@ -4,6 +4,21 @@
 
 layout: home
 ---
-Welcome to my personal website. Here you can find some information about me and my research, as well as some blog posts.
 
-The website is under construction, stay tuned for new developments!
+
+
+
+<img src='images/me.jpeg' style='float: left' width=300 > 
+
+I am a posdoctoral researcher at the (Donders Institute)[https://www.ru.nl/donders/] in Nijmegen (NL). I have a background in statistical physics and computational neuroscience, and I am working at the Neuronal Networks for Memory Lab, developing and applying machine learning tools for the analysis of neural data.
+
+On this website you can find some information about me, my research interests and my current projects.
+
+
+
+
+
+
+
+
+
