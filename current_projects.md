@@ -23,7 +23,15 @@ I am working with Rafael Pedrosa on a dataset he collected using voltage sensiti
 Mice were subjected to a trace conditioning protocol, in which they learned to associate an auditory stimulus to the delivery of a reward after a waiting period. During the learning sessions, the whole right cortical hemisphere was recorded, together with the local field potential in the hippocampus.
 We are using population-wide analysis techniques and machine learning tools on this extensive datasets to investigate how cortical dynamics is shaped by learning, and how it interacts with the hippocampus during the process.
 
+<img src ="images/cortex_example.jpeg" width=1000/>
+
+
+
+
+
 ## Sharp wave ripple interactions with brain oscillations
 
 I am working on electrophysiological recordings collected by Matteo Guardamagna from the CA1 regions of mice during navigational behaviour and sleep. We are investigating how hippocampal sharp wave ripples (link) interact with the various oscillatory modes present during sleep and locomotion, and how these interaction relate to memory consolidation.
+
+<img src ="images/ripple_examples1.jpeg" width=1000/>
 
