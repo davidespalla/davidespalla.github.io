@@ -27,7 +27,7 @@ twitter_username: SpallaDavide
 github_username:  davidespalla
 
 # Build settings
-markdown: GMF
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
