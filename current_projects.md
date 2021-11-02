@@ -33,5 +33,4 @@ We are using population-wide analysis techniques and machine learning tools on t
 
 I am working on electrophysiological recordings collected by Matteo Guardamagna from the CA1 regions of mice during navigational behaviour and sleep. We are investigating how hippocampal sharp wave ripples interact with the various oscillatory modes present during sleep and locomotion, and how these interaction relate to memory consolidation.
 
-<img src ="https://github.com/davidespalla/davidespalla.github.io/blob/master/images/ripple_examples1.jpeg" width=1000/>
-
+<img src ="https://github.com/davidespalla/davidespalla.github.io/blob/fabfde2364c4c397378d37eac32d392f1f74f8f1/images/ripple_examples1.jpeg" width=1000/>
