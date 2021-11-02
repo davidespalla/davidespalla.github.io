@@ -14,7 +14,7 @@ I am a posdoctoral researcher at the [Donders Institute](https://www.ru.nl/donde
 I have a background in statistical physics and computational neuroscience, and I am working at the Neuronal Networks for Memory Lab, developing and applying machine learning tools for the analysis of neural data.
 On this website you can find some information about me, my research interests and my current projects.
 
-<img src ="images/cortex_example.jpeg" width=1000/>
+
 
 
 
