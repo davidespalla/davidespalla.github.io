@@ -14,8 +14,7 @@ I am working with Matteo Guardamagna on elettrophysiological data he collected f
 Since mice were not food deprived and free to explore at their will, this paradigms affords an interesting opportunity to investigate neural activity during spontaneous behaviour.
 We developed a behaviour segmentation pipeline to extract exploratory periods and other behavioural states from the videos of the exploratory sessions, and we are using the output of this pipeline to investigate how the hippocampus represents familiar and novel objects during unconstrained exploration.
 
-![ethogram1](https://davidespalla.github.io/images/ethogram_example1.gif =300x300) ![ethogram2](https://davidespalla.github.io/images/ethogram_example2.gif | width=300) ![ethogram3](https://davidespalla.github.io/images/ethogram_example3.gif =300x) 
-
+![ethogram1](https://davidespalla.github.io/images/ethogram_example1.gif)
 
 ## Cortical dynamics during associative learning
 
