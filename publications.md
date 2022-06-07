@@ -8,6 +8,10 @@ permalink: /publications/
 
 ### Peer-reviewed
 
+**Angular and linear speed cells in the parahippocampal circuits**  
+**Spalla D.**, Treves A. & Boccara C. (2022).  
+Nature Communications, [https://doi.org/10.1038/s41467-022-29583-z](https://doi.org/10.1038/s41467-022-29583-z)
+
 **Continuous attractors for dynamic memories**    
 **Spalla D.**, Cornacchia I.M. & Treves, A. (2021).  
 eLife. [https://elifesciences.org/articles/69499](https://elifesciences.org/articles/69499)
@@ -24,6 +28,4 @@ SISSA Iris. [http://hdl.handle.net/20.500.11767/115780](http://hdl.handle.net/20
 
 ### Preprints
 
-**Angular and linear speed cells in the parahippocampal circuits**  
-**Spalla D.**, Treves A. & Boccara C. (2021).  
-BioRxiv, [https://doi.org/10.1101/2021.01.28.428631](https://doi.org/10.1101/2021.01.28.428631)
+
