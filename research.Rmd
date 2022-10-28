@@ -17,7 +17,6 @@ My research interests are mainly organized around three areas:
 ## Current Projects
 Here is an overview of the projects I am currently working on.
 
----
 
 ### Neural population coding of space and objects in the hippocampus
 
@@ -48,6 +47,8 @@ In this project, in collaboration with [Alessandro Treves](https://people.sissa.
 In particular, we are investigatin the properties of a neural network endowed with [dynamical continuous attractors](https://elifesciences.org/articles/69499) and a compositional structure in its memorized patters.  
 How does the compositional structure infulence the capacity of the network to retrieve memeories? How is does the memory dynamics change? These and other questions are the targets of our current investigation.
 
+![](./images/sequence.gif)
+
 ---
 
 ### Optimal transport measure of neural activity similarity
@@ -64,6 +65,8 @@ It yields distances that reflect distance relationships between place field peak
 This pairwise similarity structure can be used to investigate remapping at the population level, even between spaces with different geometries, as well as to quantify reactivation during sleep.
 
 This framework provides a robust and versatile tool for the investigation of the similarity of neural responses and their changes across conditions.
+
+![](./images/clustering_example.png)
 
 
 
