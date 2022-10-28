@@ -1,0 +1,16 @@
+---
+title: "About"
+---
+I am a postdoctoral researcher at the [Donders Institute](https://www.ru.nl/donders/) in Nijmegen (NL), and a fellow of the [Netherlands eScience center](https://www.esciencecenter.nl/). 
+
+I have a background in statistical physics and computational neuroscience, and I am working at the [Neuronal Networks for Memory Lab](https://www.ru.nl/donders/research/theme-3-plasticity-memory/research-groups-theme-3/neuronal-networks-memory/), where I am developing and applying machine learning tools for the analysis of neural data.
+
+## Interests
+- Learning and memory
+- Machine learning and neural data analysis
+- Neural network theory
+
+## Education
+- PhD in Computational Neuroscience at  [SISSA](https://www.sissa.it/). (2020)
+- M.Sc. in Physics of Complex Systems at [UniTo](https://www.unito.it/) (2016)
+- B.Sc. in Physics at [UniTo](https://www.unito.it/) (2014)

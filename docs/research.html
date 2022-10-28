@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Research</title>
+
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Davide Spalla</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">About</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="neural_data_science.html">Neural Data Science</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="mailto:&lt;spalladavide.92@gmail.com&gt;">
+    <span class="fa fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://github.com/davidespalla">
+    <span class="fa fa-github fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Research</h1>
+
+</div>
+
+
+<p>My research interests are mainly organized around three areas:</p>
+<ul>
+<li>The study of memory and learning in cortical and hippocampal neural
+popluations.</li>
+<li>The developement of data analysis and machine learning tools for
+systems neuroscience.</li>
+<li>The theory of neural networks in general, and of autoassociative
+memory models in particular.</li>
+</ul>
+<div id="current-projects" class="section level2">
+<h2>Current Projects</h2>
+<p>Here is an overview of what I am currently working on.</p>
+<div
+id="neural-population-coding-of-space-and-objects-in-the-hippocampus"
+class="section level3">
+<h3>Neural population coding of space and objects in the
+hippocampus</h3>
+<p>The hippocampus sits on top of the cortical hierarchy that, beginning
+from the primary responses to sensory signals, builds the integrated
+representations that guide our behaviour and form our memories. The
+hippocampal code is known for its complexity and its capacity to respond
+to a huge variety of stimuli, among which allocentric spatial location
+is one of the most well studied.</p>
+<p>How does the code for space differ and interact with the
+representations of other salient features?</p>
+<p>To tackle this question I am working with <a
+href="https://scholar.google.fi/citations?user=wGGPUeEAAAAJ&amp;hl=pl">Matteo
+Guardamagna</a> on elettrophysiological data he collected from the
+hippocampus of mice exploring arenas populated with different
+objects.</p>
+<p>The unconstrained behaviour of the animal spontaneously organizes
+itself in periods of <em>navigation</em> (with the animal running around
+or sitting still) and <em>object exploration</em> (with the animal
+interacting with the objects in the arena).</p>
+<p>Our investigation shows that hippocampal responses have different
+statistical properites, in terms of dimensionality, stability and
+offline reactivation, between these two behavioural regimes.</p>
+<p><img
+src="https://davidespalla.github.io/images/ethogram_example1.gif" /></p>
+</div>
+<div
+id="compositional-memory-in-dynamical-continuous-attractor-networks"
+class="section level3">
+<h3>Compositional memory in dynamical continuous attractor networks</h3>
+<p>When we remember the past, or think about the future, our minds
+create rich scenes, comprising multiple elements and often the unfolding
+of a story over time. Two elements, among others, are crucial for
+creating these mental images: <em>composition</em> of small items into
+larger scenes and a <em>dynamical</em> retrieval (or production) of the
+temporal structure.</p>
+<p>In this project, in collaboration with <a
+href="https://people.sissa.it/~ale/">Alessandro Treves</a>, I am trying
+to understand how these elements can be combined in a mechanistic model
+of autoassociative memory.</p>
+<p>In particular, we are investigatin the properties of a neural network
+endowed with <a
+href="https://elifesciences.org/articles/69499">dynamical continuous
+attractors</a> and a compositional structure in its memorized
+patters.<br />
+How does the compositional structure infulence the capacity of the
+network to retrieve memeories? How is does the memory dynamics change?
+These and other questions are the targets of our current
+investigation.</p>
+</div>
+<div id="optimal-transport-measure-of-neural-activity-similarity"
+class="section level3">
+<h3>Optimal transport measure of neural activity similarity</h3>
+<p>Measuring the similarity of neural activity is a problem with many
+applications in neuroscience, from the quantification of the variability
+of cell responses to reducing the dimensionality of large neural
+recordings. Neural data often have a natural metric structure that can
+be used to quantify their similarity, for example the time difference
+between two spikes or the spatial distance at which they are emitted
+during the exploration of an environment.</p>
+<p>When moving from the similarity between spikes to the similarity of
+overall cell responses, however, this metric structure is neglected by
+the most used information-theoretic measures, such as correlation, KL
+divergence or mutual information.</p>
+<p>In this project, we aim to develop a framework to quantify the
+similarity between the activity of neural responses that takes into
+account the metric structure of the data space.</p>
+<p>We apply this method to neural recordings in freely moving mice and
+show that it allows to cluster cells with similar activity in space,
+independently of their spatial information content. It yields distances
+that reflect distance relationships between place field peaks in the
+case of regular place fields and provide a more robust measure of
+similarity in the case of irregular or multimodal place fields. This
+pairwise similarity structure can be used to investigate remapping at
+the population level, even between spaces with different geometries, as
+well as to quantify reactivation during sleep.</p>
+<p>This framework provides a robust and versatile tool for the
+investigation of the similarity of neural responses and their changes
+across conditions.</p>
+<hr />
+</div>
+</div>
+<div id="publications" class="section level2">
+<h2>Publications</h2>
+<p><strong>Angular and linear speed cells in the parahippocampal
+circuits</strong><br />
+<strong>Spalla D.</strong>, Treves A. &amp; Boccara C. (2022).<br />
+Nature Communications, <a
+href="https://doi.org/10.1038/s41467-022-29583-z">https://doi.org/10.1038/s41467-022-29583-z</a></p>
+<p><strong>Continuous attractors for dynamic memories</strong><br />
+<strong>Spalla D.</strong>, Cornacchia I.M. &amp; Treves, A.
+(2021).<br />
+eLife. <a
+href="https://elifesciences.org/articles/69499">https://elifesciences.org/articles/69499</a></p>
+<p><strong>Space,time and memory in the Medial Temporal
+Lobe</strong><br />
+<strong>Spalla D.</strong> (2020).<br />
+SISSA Iris. <a
+href="http://hdl.handle.net/20.500.11767/115780">http://hdl.handle.net/20.500.11767/115780</a></p>
+<p><strong>Can Grid Cell Ensembles Represent Multiple
+Spaces?</strong><br />
+<strong>Spalla D.</strong>, Dubreuil A., Rosay S., Monasson, R. &amp;
+Treves, A. (2019).<br />
+<em>Neural computation</em>, <em>31</em>(12), 2324–2347. <a
+href="https://doi.org/10.1162/neco_a_01237">https://doi.org/10.1162/neco_a_01237</a></p>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

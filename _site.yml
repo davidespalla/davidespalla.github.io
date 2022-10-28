@@ -1,0 +1,22 @@
+name: "davidespalla"
+output_dir: "docs"
+navbar:
+  title: "Davide Spalla"
+  left:
+    - text: "About"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Neural Data Science"
+      href: neural_data_science.html
+
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<spalladavide.92@gmail.com>
+    - icon: fa-github fa-lg
+      href: https://github.com/davidespalla
+        
+output:
+  html_document:
+      theme: lumen
+      highlight: textmate
