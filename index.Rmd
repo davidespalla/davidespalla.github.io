@@ -1,0 +1,22 @@
+---
+title: "Davide Spalla"
+---
+
+<img src='images/me.jpeg' width="50%">
+
+
+I am a postdoctoral researcher in the [Neuronal Networks for Memory Lab](https://www.ru.nl/donders/research/theme-3-plasticity-memory/research-groups-theme-3/neuronal-networks-memory/) at the [Donders Centre for Neuroscience](https://www.ru.nl/donders/) in Nijmegen (NL), and a fellow of the [Netherlands eScience center](https://www.esciencecenter.nl/). 
+
+My work mostly focuses on the developement and applications of Machine Learning tools for the analysis of neural data.
+
+---
+
+## Research Interests
+- Learning and memory
+- Machine learning and neural data analysis
+- Neural network theory
+
+## Education
+- PhD in Computational Neuroscience at  [SISSA](https://www.sissa.it/). (2020)
+- M.Sc. in Physics of Complex Systems at [UniTo](https://www.unito.it/) (2016)
+- B.Sc. in Physics at [UniTo](https://www.unito.it/) (2014)
