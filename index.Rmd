@@ -1,11 +1,20 @@
 ---
 title: "Davide Spalla"
+
+header-includes:
+  - \usepackage[pages=some]{background}
+  
 ---
+<img src='images/leaflets.png' width="100%">
+
+I am a postdoctoral researcher in the [Neuronal Networks for Memory Lab](https://www.ru.nl/donders/research/theme-3-plasticity-memory/research-groups-theme-3/neuronal-networks-memory/) at the [Donders Centre for Neuroscience](https://www.ru.nl/donders/) in Nijmegen (NL), and a fellow of the [Netherlands eScience center](https://www.esciencecenter.nl/). My work mostly focuses on the developement and applications of Machine Learning tools for the analysis of neural data.
+
+
 
 <img src='images/me.jpeg' width="50%">
 
 
-I am a postdoctoral researcher in the [Neuronal Networks for Memory Lab](https://www.ru.nl/donders/research/theme-3-plasticity-memory/research-groups-theme-3/neuronal-networks-memory/) at the [Donders Centre for Neuroscience](https://www.ru.nl/donders/) in Nijmegen (NL), and a fellow of the [Netherlands eScience center](https://www.esciencecenter.nl/). My work mostly focuses on the developement and applications of Machine Learning tools for the analysis of neural data.
+
 
 ---
 
