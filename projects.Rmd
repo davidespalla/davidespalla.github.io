@@ -1,16 +1,16 @@
 ---
-title: "Research"
+title: "Projects"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-My research interests are mainly organized around three areas: 
+In my current role, my interests are mainly organized around three areas: 
 
 - The study of memory and learning in  cortical and hippocampal neural popluations.
 - The developement of data analysis and machine learning tools for systems neuroscience.
-- The theory of neural networks in general, and of autoassociative memory models in particular.
+- The theory of neural networks, with a particular focus on autoassociative memory models.
 
 ---
 
@@ -73,7 +73,7 @@ This framework provides a robust and versatile tool for the investigation of the
 
 ---
 
-## Publications
+## Selected publications
 
 **Angular and linear speed cells in the parahippocampal circuits**  
 **Spalla D.**, Treves A. & Boccara C. (2022).  
