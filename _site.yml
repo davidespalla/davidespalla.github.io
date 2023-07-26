@@ -5,10 +5,12 @@ navbar:
   left:
     - text: "About"
       href: index.html
-    - text: "Research"
-      href: research.html
+    - text: "Projects"
+      href: projects.html
     - text: "Neural Data Science"
       href: neural_data_science.html
+    - text: 'Code'
+      href: code.html
 
   right: 
     - icon: fa-envelope fa-lg
