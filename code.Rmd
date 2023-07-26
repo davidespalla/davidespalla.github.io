@@ -1,0 +1,46 @@
+---
+title: "Code"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Pipelines
+Below is the code for two preprocessing library that I developed in the Neuronal Networks of Memory Lab. Both are under heavy developement, will be greatly improved soon!
+
+- [pipeline_vsdi](https://github.com/NeuroNetMem/pipeline_vsdi) provides functionality for the preprocessing of voltage sensitive dye imaging data, some code for dimensionality reduction methods (PCA-ICA, Variatinal Autoencoders, Dynamics Mode Decomposition) and some code for neural decoding.
+
+- [pipeline_2p](https://github.com/NeuroNetMem/pipeline_2p) provides a tool for the segmentation of large (~ 50GB) video files acquired with two-photon calcium imaging using [CaImAn](https://github.com/flatironinstitute/CaImAn), and the syncronization with Vritual Reality behavioural data.
+
+
+
+## Attractor Neural Networks
+Here you'll find some code for the simulation and numerical soultion of Attractor Neural Networks model, on which I wokred during my PhD.
+
+- [Dynamic-Continuous-Attractors](https://github.com/davidespalla/Dynamic-Continuous-Attractors) contains the code for the numerical simulations and the analytical solutions of continuous attractor networks with a dynamical components, as presented in [this paper](https://elifesciences.org/articles/69499)
+- [compositional_sequences](https://github.com/davidespalla/compositional_sequences) contains code to extend dynamic continuous attractos to sequences of sequences, for the quantitative investigation of compositional memory systems. 
+
+## Neural Data
+Here is some code with which I perfomed analysis on neural data in the projects I am currently working on
+
+- [optispace](https://github.com/davidespalla/optispace) contains code for the use of Optimal Transport to study the similarity between the spatial spiking distributions of pairs hippocampal neuron, and investigate global remapping. The code is currently in a maximum entropy state, but will hopefully become more structured soon.
+
+- [stonded](https://github.com/davidespalla/stoned) is an ever-evolving library containing a cleaned-up version of code I ended up using in multiple projects.
+
+## Side projects
+Here is the code of some side projects that I carried out to learn some skills or just for the fun of it!
+
+- [RateMap](https://github.com/davidespalla/mixsel-web-dashboard) is a R/Shiny based interactive dashboard to visualize nerual activity and the spatial selectivity of neurons.
+- [MixSel](https://github.com/davidespalla/ratemapp) is a Dash/Plotly based dashboard built to visualize the patterns of mixed selectiviy on neurons in the parahippocampal regions, as described by [this paper](https://www.nature.com/articles/s41467-022-29583-z)
+
+
+
+
+
+
+
+
+
+
+
