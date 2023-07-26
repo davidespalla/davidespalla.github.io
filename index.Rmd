@@ -1,13 +1,17 @@
 ---
 title: "Davide Spalla"
-
+subtitle: Neural Data Scientist 
 header-includes:
   - \usepackage[pages=some]{background}
   
 ---
 <img src='images/leaflets.png' width="100%">
 
-I am a postdoctoral researcher in the [Neuronal Networks for Memory Lab](https://www.ru.nl/donders/research/theme-3-plasticity-memory/research-groups-theme-3/neuronal-networks-memory/) at the [Donders Centre for Neuroscience](https://www.ru.nl/donders/) in Nijmegen (NL), and a fellow of the [Netherlands eScience center](https://www.esciencecenter.nl/). My work mostly focuses on the developement and applications of Machine Learning tools for the analysis of neural data.
+I am a Data Scientist with a background in Statistical Physics and Computational Neuroscience.  
+
+I am currently working in the [Neuronal Networks for Memory Lab](https://www.ru.nl/donders/research/theme-3-plasticity-memory/research-groups-theme-3/neuronal-networks-memory/) at the [Donders Centre for Neuroscience](https://www.ru.nl/donders/) in Nijmegen (NL), where I develop data pipelines for the processing of brain imaging data (2-photon calcium inmaging and voltage-sensitive dye imaging), and statistical/ML models for predicting brain activity from behaiour.
+
+As a fellow of the [Netherlands eScience center](https://www.esciencecenter.nl/), I developed an open source course on software developement and Machine Learning for neuroscientists. You can find it [here](https://neural-data-science-course.github.io/)
 
 
 
@@ -18,9 +22,11 @@ I am a postdoctoral researcher in the [Neuronal Networks for Memory Lab](https:/
 
 ---
 
-## Research Interests
-- Learning and memory
-- Machine learning and neural data analysis
+## Interests
+- Predicitve models of neural activity
+- Video segmentation and source extraction
+- High-timensional multivariate time series analysis
+- Optimal transport applications 
 - Neural network theory
 
 ## Education
